@@ -7,9 +7,6 @@
 
 - 📫 How to reach me **jexcdeveloper@gmail.com**
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamjexcdevvv&show_icons=true&locale=en&layout=compact" alt="iamjexcdevvv" /></p>
-
-
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jexcdeveloper@gmail.com) 
 
