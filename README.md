@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Andrei</h1>
-<h3 align="center">A backend developer who is passionate in solving complex problems</h3>
+<h3 align="center">A Frontend Web Developer who is passionate in building UI, interactive, responsive and user-friendly design</h3>
 
 - 👨‍💻 All of my projects are available at [https://jexc.eduproject.website/](https://jexc.eduproject.website/)
 
