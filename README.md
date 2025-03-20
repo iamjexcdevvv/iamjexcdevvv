@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Andrei</h1>
-<h3 align="center">ASP.Net Core Developer who is passionate in solving complex problems and making user-friendly as well as responsive design</h3>
+<h3 align="center">ASP.NET Core Developer who is passionate in solving complex problems and making user-friendly as well as responsive design</h3>
 
 - 👨‍💻 All of my projects are available at [https://jexc.eduproject.website/](https://jexc.eduproject.website/)
 
