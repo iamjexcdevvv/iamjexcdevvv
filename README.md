@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **commissions and programming related questions**
 
-- 📫 How to reach me **jexcdeveloper@gmail.com**
+- 📫 How to reach me? 👉 **jexcdeveloper@gmail.com**
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jexcdeveloper@gmail.com) 
