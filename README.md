@@ -3,7 +3,7 @@
 
 - 👨‍💻 All of my projects are available here or at my portfolio website [https://jexc.eduproject.website/](https://jexc.eduproject.website/)
 
-- 💬 Ask me about **Commissions and programming related questions**
+- 💬 Ask me about **commissions and programming related questions**
 
 - 📫 How to reach me **jexcdeveloper@gmail.com**
 
