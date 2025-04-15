@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Andrei</h1>
 <h3 align="center">ASP.NET Core Developer passionate in solving complex problems and crafting user-friendly and responsive designs.</h3>
 
-- 👨‍💻 All of my projects are available here or at my portfolio website [https://jexc.eduproject.website/](https://jexc.eduproject.website/)
+- 👨‍💻 All of my projects are available here or at my portfolio website [https://jexc.vercel.app/](https://jexc.vercel.app/)
 
 - 💬 Ask me about **commissions and programming related questions**
 
